@@ -1,5 +1,5 @@
 # Sakuras Sweets
-Welcome to Sakuras Sweets, where you are on the path to the tastiest experiences with Japanese cuisine! Our online store is a product of the passion and creativity of 7 talented individual.
+Welcome to Sakuras Sweets, where you are on the path to the tastiest experiences with Japanese cuisine! Our online store is a product of the passion and creativity of 8 talented individual.
 <br>
 <br>
 
@@ -15,7 +15,7 @@ Welcome to Sakuras Sweets, where you are on the path to the tastiest experiences
 
 ### About our team:
 
-**Frontend 👨‍💻👩‍💻:** Our team of 2 frontend developers creates an aesthetic and intuitive interface where everyone can easily find their favorite Japanese sweets.
+**Frontend 👨‍💻👩‍💻:** Our team of 3 frontend developers creates an aesthetic and intuitive interface where everyone can easily find their favorite Japanese sweets.
 
 **Backend 🧑‍💻:** Our backend developer ensures the reliability and efficiency of our online store using various technologies, making your purchases enjoyable and seamless.
 
